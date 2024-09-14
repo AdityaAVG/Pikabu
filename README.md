@@ -1,6 +1,6 @@
 # **Pikabu- A Pokemon identifier based on the image used**
 
-**Pikau** is a machine learning model designed to identify the Pokemon based on the image provided. Currently limited to only three but most popular Pokemons -Pikachu , Bulbasaur, Charmander.
+Pikabu is a machine learning model designed to identify the Pokemon based on the image provided. Currently limited to only three but most popular Pokemons -Pikachu , Bulbasaur, Charmander.
 ---
 
 ## **Getting Started**
